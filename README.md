@@ -18,7 +18,7 @@ I am a Computer Science student passionate about Data Science, Artificial Intell
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,react,nodejs,fastapi,mysql,mongodb,git,github,vscode,tensorflow,pytorch&perline=6" alt="Skills and Technologies"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,fastapi,mysql,mongodb,git,github,vscode,tensorflow,pytorch&perline=6" alt="Skills and Technologies"/>
 </p>
 
 ### 📊 Data Science & Machine Learning
