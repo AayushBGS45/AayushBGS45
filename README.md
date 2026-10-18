@@ -108,4 +108,4 @@ A data-driven agricultural price forecasting and volatility alerting system.
 
 ### 💡 *"Building intelligent solutions, one line of code at a time."*
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thank you so much for visiting my profile! Feel free to explore my repositories and connect with me.
